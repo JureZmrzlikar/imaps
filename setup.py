@@ -37,6 +37,7 @@ setuptools.setup(
         'seaborn',
         'sklearn',
         'resdk>=11.0.1',
+        'xlrd>=0.9.4',
    ],
     extras_require={
         'docs': ['sphinx_rtd_theme'],
